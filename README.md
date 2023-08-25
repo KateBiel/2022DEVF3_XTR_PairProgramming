@@ -100,7 +100,7 @@ One of these prototypes, "Car Showroom," was selected for the final project iter
     
 1. Description: In this showroom, the player can customize a car's color to their liking, with control over three primary components: Base, which affects the entire car; Glass, altering the color of the car's windows; and Details, changing the color of the headlights. Additionally, the player can rotate the car using the left slider and adjust the environment's lighting with the right slider. 
 
-    Explore the Virtual Reality implementation of this prototype [ here ](https://github.com/username/repository-name)
+    Explore the Virtual Reality implementation of this prototype [ here ](https://github.com/KateBiel/2022DEVF3_XTR_CarShowroomVR)
 
  2. Controls: LMB
  
