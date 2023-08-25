@@ -7,15 +7,15 @@ Repository for 3 academic prototypes - XR Terra (Pair Programming Exercises)
 
 Pair Programming DRD (Defend, Run, Display) is a collection of three distinct prototypes: Soccer Field Gradient, Red Light Green Light, and Car Showroom. These prototypes were developed during the Unity Foundation course at XRTerra. Throughout this project, I collaborated in pairs, partnering with different individuals each time to hone our pair programming skills. I embraced various roles, alternating between the 'driver' and 'navigator' positions. Additionally, I incorporated enhanced visuals, diving into a design role to enrich the development experience and make it more enjoyable for myself.
 
-One of these prototypes, "Car Showroom," was selected for the final project iteration, with a primary focus on integrating Virtual Reality mechanics. [Learn more about Car Showroom VR. ](https://github.com/username/repository-name)
+One of these prototypes, "Car Showroom," was selected for the final project iteration, with a primary focus on integrating Virtual Reality mechanics. [Learn more about Car Showroom VR. ](https://github.com/KateBiel/2022DEVF3_XTR_CarShowroomVR)
 
 ✨ Timeline: 3 weeks
 
-🔴 YouTube Demo: [Soccer Field Gardient](https://youtu.be/GtmAc1zIBew)
+🔴 YouTube Demo: [Soccer Field Gardient](https://www.youtube.com/watch?v=ewFjK0WCmz4)
 
-🔴 YouTube Demo: [Red Light Green Light](https://youtu.be/GtmAc1zIBew)
+🔴 YouTube Demo: [Red Light Green Light](https://www.youtube.com/watch?v=loCCt3vq40w)
 
-🔴 YouTube Demo: [Car Showroom](https://youtu.be/GtmAc1zIBew)
+🔴 YouTube Demo: [Car Showroom](https://www.youtube.com/watch?v=J6YSGGTOE7c)
 
     - Unity 2021.3.13
     - 3D URP
@@ -154,11 +154,11 @@ One of these prototypes, "Car Showroom," was selected for the final project iter
 # 🤟 Featured Repositories
 
 <p style="text-align:center;">
-<a href="https://github.com/username/repository-name" target="_blank">
-  <img src="https://bobbyhadz.com/images/blog/python-print-tab/thumbnail.webp" width="49%" />
+<a href="https://github.com/KateBiel/2022CS_SolarSystem#readme" target="_blank">
+  <img src="https://github.com/KateBiel/2022DEVF3_XTR_PairProgrammingDRD/assets/103016794/6f6d3969-9151-4ae2-be92-098743864af6" width="49%" />
 </a>
-<a href="https://github.com/username/repository-name" target="_blank">
-  <img src="https://bobbyhadz.com/images/blog/what-aws-cdk-bootstrap-do/thumbnail.webp" width="49%" />
+<a href="https://github.com/KateBiel/2022DEVF3_XTR_CarShowroomVR" target="_blank">
+  <img src="https://github.com/KateBiel/2022DEVF3_XTR_PairProgrammingDRD/assets/103016794/b8d1190a-0456-4fb9-8fc0-901b93b6b1d5" width="49%" />
 </a>
   
 </p>
