@@ -1,4 +1,4 @@
-# 2022DEVF3_XTR_PairProgrammingDRD_Apr21/22
+# XTerra_PairProgrammingDRD_Apr21/22
 Repository for 3 academic prototypes - XR Terra (Pair Programming Exercises)
 
 ![IMG_6225](https://github.com/KateBiel/2022DEVF3_XTR_PairProgramming/assets/103016794/a8603f1a-cc93-444e-9018-e2b176c21022)
@@ -119,7 +119,7 @@ One of these prototypes, "Car Showroom," was selected for the final project iter
 
 
  - Implement console outputs directly into the game's UI for better user feedback.
-- djust colliders to ensure the player remains within the designated playground area.
+- Adjust colliders to ensure the player remains within the designated playground area.
 - Set up a mechanism to destroy enemies once they enter a particular zone, ensuring smoother gameplay even with numerous adversaries.
 - Incorporate sounds that respond to player actions, enhancing the interactive feedback within the game.
 
@@ -149,7 +149,7 @@ One of these prototypes, "Car Showroom," was selected for the final project iter
 
 
 
-<div style="border-top: 1.4px solid #3a3c43; margin-top: 20px;"></div>
+<div style="border-top: 1.4px solid #3a3c43; margin-top: 50px;"></div>
 
 # 🤟 Featured Repositories
 
@@ -162,3 +162,9 @@ One of these prototypes, "Car Showroom," was selected for the final project iter
 </a>
   
 </p>
+
+In case clicking the images doesn't redirect you to the correct repository, try the links below:
+
+- [Solar System PC](hhttps://github.com/KateBiel/2022CS_SolarSystem#readme)
+
+- [CarShowroom VR](https://github.com/KateBiel/2022DEVF3_XTR_CarShowroomVR)
